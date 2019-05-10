@@ -6,6 +6,6 @@ def array_with_two_elements
   ar = [1, 2]
 end
 
-def first_element
-  
+def first_element(ar)
+  ar[0]
 end
