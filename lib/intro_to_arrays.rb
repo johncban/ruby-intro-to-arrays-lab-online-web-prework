@@ -15,5 +15,9 @@ def third_element(ar)
 end
 
 def last_element(ar)
-  ar[3]
+  ar[-1]
+end
+
+def first_element_with_array_methods(sea)
+  sea.first
 end
