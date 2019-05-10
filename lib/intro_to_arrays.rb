@@ -21,3 +21,11 @@ end
 def first_element_with_array_methods(sea)
   sea.first
 end
+
+def last_element_with_array_methods(sea)
+  sea.last
+end
+
+def length_of_array(pl)
+  pl.length
+end
