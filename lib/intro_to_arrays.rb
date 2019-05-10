@@ -15,5 +15,5 @@ def third_element(ar)
 end
 
 def last_element(ar)
-  ar[4]
+  ar[3]
 end
